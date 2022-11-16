@@ -33,7 +33,7 @@
 </div>
 <br/>
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb"  alt="mongodb" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis"  alt="redis" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/influxdb/influxdb-original-wordmark.svg" title="influxdb"  alt="influxdb" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb"  alt="mongodb" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="redis"  alt="redis" width="40" height="40"/>&nbsp;<img src="2560px-Influxdb_logo.svg.png" title="influxdb"  alt="influxdb" width="120" height="40"/>&nbsp;
   </div>
 <br/>
 <div>
